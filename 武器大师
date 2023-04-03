@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T02:34:19.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.8.18" etag="Y8qhzcHVsphbFwsh0kbX" type="github"><diagram name="第 1 页" id="HEtlmZJoPfmAMAIGvt9V">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-03T02:59:00.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cWEoxvZj8EuasYKNnIIi" version="20.8.18" type="github">
+  <diagram name="第 1 页" id="HEtlmZJoPfmAMAIGvt9V">
+    <mxGraphModel dx="2389" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gnf81cKb599PcukTjhe--1" value="武器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--2" value="角色" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="516" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--3" value="怪物" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="806" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--4" value="类型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--5" value="属性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--6" value="词条" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--7" value="最终属性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--8" value="经济" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--9" value="金钱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="516" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--10" value="武器背包" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="610" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--12" value="图形" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="205" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=13;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="175" y="45" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gnf81cKb599PcukTjhe--14" value="伤害类型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="205" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
